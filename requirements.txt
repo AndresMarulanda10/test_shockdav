@@ -1,0 +1,10 @@
+fastapi==0.116.1
+uvicorn==0.35.0
+httpx==0.27.0
+boto3==1.40.12
+python-dotenv==1.1.1
+pydantic==2.11.7
+SQLAlchemy==2.0.43
+PyMySQL==1.1.1
+cryptography==45.0.6
+requests==2.32.5
